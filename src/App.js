@@ -19,7 +19,6 @@ function App() {
         <Route path='/contact' Component={Contact} />
       </Routes>
       </BrowserRouter>
-        
     </div>
   );
 }
